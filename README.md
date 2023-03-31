@@ -17,7 +17,7 @@ pip install pyshorteners
 # Learn Run:
 
 `
-git clone https://github.com/ShahrokhParazit/Shartner-link
+git clone https://github.com/MrTelepathic/Shartner-link
 `
 
 `
@@ -31,7 +31,7 @@ python3 shortenerlink.py
   OR
 
 `
-python shortnerlonk.py
+python shortnerlink.py
 `
 # Example link:
 
